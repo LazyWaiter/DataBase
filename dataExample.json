@@ -1,0 +1,16 @@
+"command":[
+	"tableNumber" : "", // Number of the table
+	"createdAt" : "", // date creation of the command
+	"products" : [ // all product in the command
+		{
+			"name" : "", // name of the product
+			"quantity" : "" // quantity for the product
+		}
+	],
+	"status" : "" // command status 
+]
+// command status possible:
+//	1- ordered
+//	2- ready
+// 	3- delivery
+// 	4- paid
