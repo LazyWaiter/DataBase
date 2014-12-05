@@ -5,6 +5,7 @@
 		{
 			"name" : "", // name of the product
 			"quantity" : "" // quantity for the product
+			"price" : "" //price of the product
 		}
 	],
 	"status" : "" // command status 
