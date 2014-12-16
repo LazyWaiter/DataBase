@@ -12,6 +12,6 @@
 }
 // command status possible:
 //	1- ordered
-//	2- ready
-// 	3- delivery
+//	2- to_prepare
+// 	3- to_delivery
 // 	4- paid
